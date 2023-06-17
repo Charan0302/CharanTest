@@ -20,35 +20,34 @@ Back End:
 
 2. What are tags in HTML? Explain the each category of tag with an Example.
    
-Ans. Tags in HTML are used to define different elements and structure the content of a web page. HTML tags are enclosed in angle brackets (<>) and usually come in pairs, with an opening tag and a closing tag. Here are osme examples:
+Ans. 
+Headings:
+<h1> to <h6>: Used for defining different levels of headings.
+Example: <h1>This is a Heading</h1>
 
-<h1> to <h6>: Heading tags for defining different levels of headings.
+Paragraphs and Text Formatting:
+<p>: Used to define paragraphs of text.
+Example: <p>This is a paragraph.</p>
 
-<p>: Paragraph tag for defining paragraphs of text.
+<strong>: Used to indicate strong emphasis.
+Example: <strong>This text is emphasized.</strong>
 
-<a>: Anchor tag for creating hyperlinks.
+Links:
+<a>: Used to create hyperlinks.
+Example: <a href="https://www.example.com">Visit Example Website</a>
 
-<ul>: Unordered list tag for creating bulleted lists.
+Lists:
+<ul>: Used for creating unordered (bulleted) lists.
+Example: <ul>
+           <li>Item 1</li>
+           <li>Item 2</li>
+         </ul>
 
-<ol>: Ordered list tag for creating numbered lists.
-
-<li>: List item tag for defining individual items in a list.
-
-<table>: Table tag for creating tables.
-
-<tr>: Table row tag for defining rows within a table.
-
-<th>: Table header cell tag for defining headers within a table.
-
-<td>: Table data cell tag for defining data cells within a table.
-
-<form>: Form tag for creating interactive forms for user input.
-
-<script>: To add the javascript functions
+Tables:
+<table>: Used to create tables.
 
 
-
-  
+   
 3.  Explain the working Procedure of Virtual DOM.
 Ans. 
 1) The Virtual DOM (VDOM) is a concept used in web development
