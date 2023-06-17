@@ -29,9 +29,6 @@ Paragraphs and Text Formatting:
 <p>: Used to define paragraphs of text.
 Example: <p>This is a paragraph.</p>
 
-<strong>: Used to indicate strong emphasis.
-Example: <strong>This text is emphasized.</strong>
-
 Links:
 <a>: Used to create hyperlinks.
 Example: <a href="https://www.google.com">Visit Example Website</a>
