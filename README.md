@@ -1,6 +1,6 @@
-1.Mention the working of Internet Website in Terms of Front-end & Back-end Divisions
+Q1.Mention the working of Internet Website in Terms of Front-end & Back-end Divisions
 
-Ans. A website consists of two main divisions: the front-end and the back-end. These divisions work together to create a complete and functional website. Here's a breakdown of each division:
+A website consists of two main divisions: the front-end and the back-end. These divisions work together to create a complete and functional website. Here's a breakdown of each division:
 
 Front End:
 1) The front-end deals with the visual and interactive elements that users see and interact with directly on the website.
@@ -17,36 +17,35 @@ Back End:
 
 
 
-
-2. What are tags in HTML? Explain the each category of tag with an Example.
+Q2. What are tags in HTML? Explain the each category of tag with an Example.
    
-Ans. 
+ 
 Headings:
 <h1> to <h6>: Used for defining different levels of headings.
 Example: <h1>This is a Heading</h1>
 
 Paragraphs and Text Formatting:
-<p>: Used to define paragraphs of text.
+p: Used to define paragraphs of text.
 Example: <p>This is a paragraph.</p>
 
 Links:
-<a>: Used to create hyperlinks.
+a: Used to create hyperlinks.
 Example: <a href="https://www.google.com">Visit Example Website</a>
 
 Lists:
-<ul>: Used for creating unordered (bulleted) lists.
+ul: Used for creating unordered (bulleted) lists.
 Example: <ul>
            <li>Item 1</li>
            <li>Item 2</li>
          </ul>
 
 Tables:
-<table>: Used to create tables.
+table: Used to create tables.
 
 
    
-3.  Explain the working Procedure of Virtual DOM.
-Ans. 
+Q3.  Explain the working Procedure of Virtual DOM.
+ 
 1) The Virtual DOM (VDOM) is a concept used in web development
 frameworks like React to improve performance and opƟmize updates to the
 user interface.
@@ -63,7 +62,8 @@ corresponds to a real DOM element.
 
 
   
-4. Mention some Differences between MySQL and No SQL
+Q4. Mention some Differences between MySQL and No SQL
+
 the key differences between MySQL and NoSQL in a clear and concise format:
 
 MySQL:
@@ -75,18 +75,18 @@ Relational database with a structured schema.
   
 NoSQL:
 Non-relational database with a flexible schema.
-1)Utilizes various query languages or APIs.
-2)Sacrifices strong data consistency for scalability and performance.
-3)Suitable for unstructured or semi-structured data and high scalability scenarios.
-4)Provides eventual consistency and horizontal scalability.
+1) Utilizes various query languages or APIs.
+2) Sacrifices strong data consistency for scalability and performance.
+3) Suitable for unstructured or semi-structured data and high scalability scenarios.
+4) Provides eventual consistency and horizontal scalability.
 
 
-5. Explain any one DBMS Technology in your own words.
-Ans. 
+Q5. Explain any one DBMS Technology in your own words.
+ 
 DBMS Technology:
-DBMS stands for Database Management System.
-It is software that helps organize and retrieve data from databases.
-DBMS provides structured storage, retrieval, and manipulation of data.
-It ensures data integrity, concurrency control, and security.
-DBMS systems use query languages (e.g., SQL) to interact with databases.
-They are used in various applications to efficiently manage and retrieve data.
+1) DBMS stands for Database Management System.
+2) It is software that helps organize and retrieve data from databases.
+3) DBMS provides structured storage, retrieval, and manipulation of data.
+4) It ensures data integrity, concurrency control, and security.
+5) DBMS systems use query languages (e.g., SQL) to interact with databases.
+6) They are used in various applications to efficiently manage and retrieve data.
